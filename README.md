@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=aadesh0706&color=blue)  
+*Active since*: `September 2024`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
