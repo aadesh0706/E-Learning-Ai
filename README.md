@@ -160,7 +160,7 @@ We welcome contributions to make this platform even better!
 
 ---
 
-Made with 💙 by [Your Name](https://your-profile-link) 🌟
+Made with 💙 by [Aadesh Gulumbe](https://github.com/aadesh0706) 🌟
 
 ---
 
